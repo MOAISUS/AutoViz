@@ -5,3 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
